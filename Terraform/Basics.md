@@ -48,6 +48,12 @@ Executes the proposed changes and applies them to your infrastructure.
 - Setting a variable as **"Ephemeral"**.
 - Setting a variable as **Sensitive**:
   - Generally, Terraform will print out on the console the changes that are going to apply on the resource while performing `terraform plan`, `terraform destroy`, and `terraform apply`. So, if you make a Terraform variable as `Sensitive=true` then that variable will not print on the console.
+ 
+  - ![image](https://github.com/user-attachments/assets/117c3d38-8def-400f-af98-e6e854b065a3)
+    
+  - ![image](https://github.com/user-attachments/assets/2f421063-fe89-4559-a257-b121bf53695a)
+
+
 
 ---
 
